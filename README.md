@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**LeafyShadow696/LeafyShadow696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# František Kalášek
 
-Here are some ideas to get you started:
+### TopBot PwnZ™ — _Bridge the gap, create the world._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website](https://img.shields.io/badge/Portfolio-fk--dv.vercel.app-000?style=flat-square&logo=vercel)](https://fk-dv.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-LeafyShadow696-000?style=flat-square&logo=github)](https://github.com/LeafyShadow696)
+[![Instagram](https://img.shields.io/badge/Instagram-@pwnz.qq-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/pwnz.qq)
+[![Facebook](https://img.shields.io/badge/Facebook-@pwnz.qq-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/pwnz.qq)
+[![Email](https://img.shields.io/badge/Email-FandaKalasek%40icloud.com-000?style=flat-square&logo=icloud&logoColor=white)](mailto:FandaKalasek@icloud.com)
+
+</div>
+
+---
+
+## About
+
+Full-stack developer zaměřený na moderní digitální řešení. Staví webové aplikace, automatizace, API integrace a cloud systémy, které fungují v reálném provozu.
+
+**Specialization:** Full-stack | Frontend | Backend | DevOps
+
+---
+
+## Tech Stack
+Core: Python • Node.js • JavaScript • TypeScript • React Frontend: React • TypeScript • Modern CSS Backend: Node.js • Python • API Design DevOps: Docker • Cloud • Automation
+
+
+---
+
+## Projects
+
+🔗 **[Portfolio](https://fk-dv.vercel.app)** — Všechny moje projekty a práce
+
+---
+
+## Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeafyShadow696&theme=dark&hide_border=true&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeafyShadow696&theme=dark&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+**Built with ❤️ | Currently coding** ⚡
+
+</div>
