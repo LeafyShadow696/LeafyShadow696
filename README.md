@@ -30,17 +30,7 @@ Core: Python • Node.js • JavaScript • TypeScript • React Frontend: React
 
 ## Projects
 
-🔗 **[Portfolio](https://fk-dv.vercel.app)** — Všechny moje projekty a práce
-
----
-
-## Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeafyShadow696&theme=dark&hide_border=true&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeafyShadow696&theme=dark&hide_border=true&layout=compact)
+🔗 **[Portfolio](https://fk-dv.vercel.app)** 
 
 </div>
 
@@ -48,6 +38,6 @@ Core: Python • Node.js • JavaScript • TypeScript • React Frontend: React
 
 <div align="center">
 
-**Built with ❤️ | Currently coding** ⚡
+**Built with 👻 | Currently coding** ⚡
 
 </div>
