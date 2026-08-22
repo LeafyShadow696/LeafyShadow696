@@ -1,131 +1,132 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ec4899,42:a855f7,74:3b82f6,100:14b8a6&text=Franti%C5%A1ek%20Kal%C3%A1%C5%A1ek&fontAlignY=38&fontColor=ffffff&fontSize=40&desc=Webové%20aplikace%20%7C%20PWA%20%7C%20Automatizace&descAlign=50&descAlignY=55" alt="header">
+# František Kalášek
 
-  # František Kalášek / TopBot PwnZ™
+### Full-stack developer · PWA · Automation · API · AI-assisted development
 
-  **Webové aplikace, PWA řešení, automatizace, API integrace a technologické konzultace.**
+Building practical web products, automation workflows and developer tooling with a strong focus on clean UX, performance and production-ready delivery.
 
-  _Bridge the gap, create the world._
+<p>
+  <a href="https://fkdev.xyz"><img src="https://img.shields.io/badge/Portfolio-fkdev.xyz-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/LeafyShadow696"><img src="https://img.shields.io/badge/GitHub-LeafyShadow696-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="mailto:FandaKalasek@icloud.com"><img src="https://img.shields.io/badge/Contact-Email-0f172a?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"></a>
+</p>
 
-  [![Website](https://img.shields.io/badge/Website-fkdev.xyz-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://fkdev.xyz)
-  [![GitHub](https://img.shields.io/badge/GitHub-LeafyShadow696-181717?style=for-the-badge&logo=github)](https://github.com/LeafyShadow696)
-  [![Email](https://img.shields.io/badge/Email-FandaKalasek%40icloud.com-0f172a?style=for-the-badge&logo=icloud&logoColor=white)](mailto:FandaKalasek@icloud.com)
-  [![Phone](https://img.shields.io/badge/Phone-%2B420%20722%20426%20195-0f766e?style=for-the-badge&logo=phone&logoColor=white)](tel:+420722426195)
-
-  ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-  ![Profile views](https://komarev.com/ghpvc/?username=LeafyShadow696&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=LeafyShadow696&style=for-the-badge)
 
 </div>
 
 ---
 
-## 👨‍💻 O mně
+## About
 
-Stavím funkční digitální systémy, které propojují technické řešení, praktické podnikání a moderní nástroje. Zaměřuji se na **webové aplikace**, **PWA** a **automatizace** s důrazem na uživatelský dopad a dlouhodobou udržitelnost.
+I build digital products that connect **software, automation and real-world workflows**.
 
-Veřejná prezentace a kontakt: **[fkdev.xyz](https://fkdev.xyz)**
+My main areas are **React/TypeScript applications, PWAs, API integrations, automation, Linux/cloud environments and AI-assisted development**. I care about solutions that are not only visually polished, but also understandable, maintainable and easy to ship.
 
----
-
-## 🚀 Co nabízím
-
-| Služba | Popis |
-|--------|--------|
-| 💻 **Webové aplikace** | React/TypeScript aplikace, landing pages, klientské portály, interní nástroje |
-| 📱 **PWA řešení** | Instalovatelné webové aplikace, offline režim, push notifikace, responsive design |
-| ⚙️ **Automatizace** | Skripty, workflow, integrace, boti – šetření času a lidských chyb |
-| 🔗 **API integrace** | Propojování služeb, datové toky, vlastní nástroje a interní systémy |
-| ☁️ **Cloud/Self-hosted** | Vercel, Docker, Linux, nasazení, hosting, produkční prostředí |
-| 📊 **IT konzultace** | Architektura, technické rozhodování, digitální transformace |
+> **Bridge the gap, create the world.**
 
 ---
 
-## 🛠️ Tech Stack
+## What I Build
 
-<div>
+| Area | Focus |
+|---|---|
+| **Web applications** | React, TypeScript, Vite, responsive interfaces and client portals |
+| **Progressive Web Apps** | Installable apps, offline-first capabilities, notifications and mobile UX |
+| **Automation** | Scripts, workflows, bots and integrations that remove repetitive work |
+| **APIs & integrations** | REST APIs, service integrations, data flows and custom tooling |
+| **Infrastructure** | Linux, Docker, Vercel and production-oriented deployment workflows |
+| **AI-assisted development** | AI-powered coding workflows, tooling, research and automation |
+
+---
+
+## Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Backend & API
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-FF6B6B?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Infrastruktura
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Backend & tooling
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-111827?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+---
+
+## Featured Work
+
+### FKDev
+
+**[fkdev.xyz](https://fkdev.xyz)** — my public development and technology portfolio.
+
+A practical showcase for web development, PWA work, automation, integrations and product-oriented engineering.
+
+**Focus:** Web apps · PWA · Automation · API integration · Deployment
+
+### Open-source work
+
+This profile repository is intentionally lightweight. Individual projects are maintained in their own repositories so each codebase can have its own documentation, releases and development history.
+
+→ **[Browse all repositories](https://github.com/LeafyShadow696?tab=repositories)**
+
+---
+
+## Engineering Principles
+
+- **Ship useful software** — solve the actual problem before adding complexity.
+- **Prefer maintainability** — readable code and predictable architecture beat clever hacks.
+- **Design for the real device** — responsive, accessible and fast UX matters.
+- **Automate repetitive work** — use tooling to reduce manual steps and errors.
+- **Document what matters** — setup, decisions and operational details should be discoverable.
+- **Use AI as leverage** — accelerate research and implementation while keeping engineering judgment in the loop.
+
+---
+
+## Current Focus
+
+- Building and refining **production-ready web applications and PWAs**
+- Improving **automation and API-driven workflows**
+- Experimenting with **AI-assisted development and developer tooling**
+- Optimizing **Linux, cloud and self-hosted environments**
+- Growing **FKDev** as a technical portfolio and product-focused brand
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeafyShadow696&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/LeafyShadow696)
+
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeafyShadow696&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/LeafyShadow696)
 
 </div>
 
 ---
 
-## 🎨 UI/UX Přístup
+## Let's Build Something Useful
 
-UI/UX je součást architektury, ne jen vizuální doplněk. Cílem je:
-
-- ✅ Jasná první obrazovka s identitou, hodnotou a CTA
-- ✅ Responzivní design pro mobil i desktop
-- ✅ Přehledná navigace a sémantická struktura
-- ✅ Konzistentní typografie, kontrast a spacing
-- ✅ Promyšlené kontaktní a konverzní cesty
-- ✅ PWA-ready metadata a chování
-- ✅ Světlý/tmavý režim pro lepší UX
-
-Portfolio **[fkdev.xyz](https://fkdev.xyz)** je příkladem tohoto přístupu.
-
----
-
-## 📊 GitHub Stats
+Have an idea, workflow or technical problem worth solving?
 
 <div align="center">
 
-[![LeafyShadow696's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeafyShadow696&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/LeafyShadow696)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeafyShadow696&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/LeafyShadow696)
-
-</div>
-
----
-
-## 🎯 Aktuální Fokus
-
-- 🔧 Rozvoj a optimalizace business prezentace **[fkdev.xyz](https://fkdev.xyz)**
-- 🏗️ Tvorba scalable webových aplikací a služeb
-- 🤖 Propojování business workflow s automatizací
-- 📦 Production-ready deployemnt a dokumentace
-
----
-
-## 📋 Business Info
-
-| Údaj | Hodnota |
-|------|---------|
-| **Jméno** | František Kalášek |
-| **Značka** | TopBot PwnZ™ |
-| **Web** | [fkdev.xyz](https://fkdev.xyz) |
-| **IČO** | 23628588 |
-| **Právní forma** | Fyzická osoba – živnostenský zákon |
-| **Zaměření** | Webový vývoj, PWA, automatizace, konzultace |
-
----
-
-## 📞 Kontakt & Spolupráce
-
-Máš projektový nápad? Potřebuješ konzultaci? Chceš se spojit?
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/💼%20Website-fkdev.xyz-3b82f6?style=flat-square&logoColor=white)](https://fkdev.xyz)
-[![Email](https://img.shields.io/badge/📧%20Email-FandaKalasek@icloud.com-ec4899?style=flat-square)](mailto:FandaKalasek@icloud.com)
-[![Phone](https://img.shields.io/badge/📱%20Tel-+420%20722%20426%20195-14b8a6?style=flat-square)](tel:+420722426195)
-[![GitHub](https://img.shields.io/badge/🔗%20GitHub-LeafyShadow696-181717?style=flat-square)](https://github.com/LeafyShadow696)
+<a href="https://fkdev.xyz"><img src="https://img.shields.io/badge/Portfolio-fkdev.xyz-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="mailto:FandaKalasek@icloud.com"><img src="https://img.shields.io/badge/Email-FandaKalasek%40icloud.com-ec4899?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"></a>
+<a href="https://github.com/LeafyShadow696?tab=repositories"><img src="https://img.shields.io/badge/Projects-View%20repositories-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
 
 </div>
 
@@ -133,10 +134,8 @@ Máš projektový nápad? Potřebuješ konzultaci? Chceš se spojit?
 
 <div align="center">
 
-**TopBot PwnZ™** • [fkdev.xyz](https://fkdev.xyz)
+**TopBot PwnZ™** · **FKDev**
 
 _Bridge the gap, create the world._
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=15&fontColor=ffffff&color=0:ec4899,42:a855f7,74:3b82f6,100:14b8a6)
 
 </div>
