@@ -67,19 +67,25 @@ My main areas are **React/TypeScript applications, PWAs, API integrations, autom
 
 ---
 
-## Featured Work
+## Featured Projects
 
-### FKDev
+### FKDev — production portfolio
 
-**[fkdev.xyz](https://fkdev.xyz)** — my public development and technology portfolio.
+**[fkdev.xyz](https://fkdev.xyz)** · [`LeafyShadow696/FK-dev`](https://github.com/LeafyShadow696/FK-dev)
 
-A practical showcase for web development, PWA work, automation, integrations and product-oriented engineering.
+Public development and technology portfolio built as a production-oriented React/Vite application. The project covers PWA-oriented UX, service presentation, API/contact flows, SEO, legal pages and automated end-to-end checks.
 
-**Focus:** Web apps · PWA · Automation · API integration · Deployment
+**Stack:** React · TypeScript · Vite · Tailwind CSS · Vercel
 
-### Open-source work
+### ProTebe — private collaborative app
 
-This profile repository is intentionally lightweight. Individual projects are maintained in their own repositories so each codebase can have its own documentation, releases and development history.
+[`LeafyShadow696/ProTebe`](https://github.com/LeafyShadow696/ProTebe)
+
+A private shared space for two, combining memories, messages, gallery content and a common calendar. Built with a modern full-stack TypeScript stack and a dedicated quality-check workflow.
+
+**Stack:** TanStack Start · React · TypeScript · Tailwind CSS · Supabase
+
+### More projects
 
 → **[Browse all repositories](https://github.com/LeafyShadow696?tab=repositories)**
 
